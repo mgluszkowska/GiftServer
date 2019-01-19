@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<item>
+<id>1</id>
+<name>naszywka na plecak</name>
+<price>7</price>
+<link>
+https://allegro.pl/naszywka-haftowana-moge-sie-za-ciebie-pomodlic-i6618912288.html
+</link>
+</item>
+<item>
+<id>2</id>
+<name>słuchawki JBL</name>
+<price>129</price>
+<link>
+https://mediamarkt.pl/rtv-i-telewizory/sluchawki-przewodowe-jbl-focus-300-czarny
+</link>
+</item>
+<item>
+<id>3</id>
+<name>naszyjnik</name>
+<price>54.99</price>
+<link>http://nene.sklep.pl/zloty-naszyjnik-gwiazd-celebrytka-blaszka-grawer.html</link>
+</item>
+</items>

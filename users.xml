@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><users>
+<user><id>1</id><name>Marta</name><surname>Głuszkowska</surname><email>martik97@gmail.com</email><creationDate></creationDate></user>
+<user><id>2</id><name>Jan</name><surname>Nowak</surname><email>now123@o2.pl</email><creationDate></creationDate></user>
+<user><id>3</id><name>Anna</name><surname>Kowalska</surname><email>kowala@gmail.com</email><creationDate></creationDate></user>
+</users>
